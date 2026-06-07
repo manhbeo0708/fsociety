@@ -9,7 +9,7 @@ import os
 
 # --- CẤU HÌNH ---
 IMAGE_FILENAME = "fsociety.png"  # Tên file ảnh cùng folder
-COUNTDOWN_SECONDS = 3*1    # 15 phút (cho test, có thể chỉnh lại)
+COUNTDOWN_SECONDS = 30*60    
 EXIT_PASSWORD = "123456"
 
 # --- WINDOWS API ĐỂ CHẶN PHÍM (Alt+Tab, Phím Windows) ---
